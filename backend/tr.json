@@ -1,0 +1,10 @@
+{
+  "captcha_cooldown": "Çok fazla yanlış captcha denemesi. Daha sonra tekrar deneyin.",
+  "captcha_invalid": "Captcha cevabı yanlış veya süresi dolmuş.",
+  "captcha_required": "Captcha gereklidir.",
+  "email_not_verified": "Kaydolmadan önce e-postanızı doğrulayın.",
+  "file_too_large": "Dosya çok büyük (en fazla 10 MB).",
+  "register_ineligible": "Kayıt tamamlanamadı.",
+  "unsupported_image": "Desteklenmeyen görüntü biçimi.",
+  "user_not_found": "Kullanıcı bulunamadı."
+}

@@ -1,0 +1,10 @@
+{
+  "captcha_cooldown": "Demasiados intentos fallidos de captcha. Inténtalo más tarde.",
+  "captcha_invalid": "La respuesta del captcha es incorrecta o ha caducado.",
+  "captcha_required": "Se requiere captcha.",
+  "email_not_verified": "Verifica tu correo antes de registrarte.",
+  "file_too_large": "Archivo demasiado grande (máx. 10 MB).",
+  "register_ineligible": "No se pudo completar el registro.",
+  "unsupported_image": "Formato de imagen no compatible.",
+  "user_not_found": "Usuario no encontrado."
+}

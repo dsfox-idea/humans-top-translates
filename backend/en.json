@@ -1,0 +1,12 @@
+{
+  "captcha_cooldown": "Too many wrong captcha attempts. Try again later.",
+  "captcha_invalid": "Captcha answer is incorrect or expired.",
+  "captcha_required": "Captcha is required.",
+  "email_not_verified": "Please verify your email before registering.",
+  "file_too_large": "File too large (max 5MB).",
+  "photo_gallery_full": "You can keep up to 4 photos. Delete one first.",
+  "photo_not_in_gallery": "That photo isn't in your gallery.",
+  "register_ineligible": "Registration could not be completed.",
+  "unsupported_image": "Unsupported image format.",
+  "user_not_found": "User not found."
+}

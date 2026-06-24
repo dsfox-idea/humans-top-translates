@@ -1,0 +1,10 @@
+{
+  "captcha_cooldown": "誤入力が多すぎます。後でお試しください。",
+  "captcha_invalid": "キャプチャの答えが違うか期限切れです。",
+  "captcha_required": "キャプチャが必要です。",
+  "email_not_verified": "登録の前にメールを確認してください。",
+  "file_too_large": "ファイルが大きすぎます(最大 10MB)。",
+  "register_ineligible": "登録を完了できませんでした。",
+  "unsupported_image": "対応していない画像形式です。",
+  "user_not_found": "ユーザーが見つかりません。"
+}
