@@ -3,8 +3,6 @@
   "addToClubTitle": "添加到俱乐部",
   "ageUnit": "岁",
   "appName": "humans.top",
-  "authCaptchaAnswer": "答案",
-  "authCaptchaHint": "请解答下方算式以继续。",
   "authCaptchaSubmit": "提交",
   "authCaptchaTitle": "快速验证",
   "authCaptchaWrong": "答案错误,请重试",
